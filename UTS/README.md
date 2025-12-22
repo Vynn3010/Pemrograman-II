@@ -26,3 +26,10 @@ Digunakan untuk membedakan perilaku dan tampilan fitur berdasarkan peran Admin d
 Method menerima parameter objek, seperti createCardPanel(AkunGame akun) dan constructor PaymentFrame(MainMenuTamu parent, AkunGame akun).
 - Objek dalam Class
 Data akun game direpresentasikan sebagai objek AkunGame dan disimpan dalam ArrayList pada class SystemManager.
+
+# Alur Kerja Singkat Aplikasi
+1.Aplikasi dimulai dari LoginFrame
+2.Pengguna login sebagai Admin atau Buyer
+3.Admin mengelola data akun game
+4.Buyer membeli akun melalui PaymentFrame
+5.Setelah pembayaran berhasil, status akun berubah menjadi Sold Out
