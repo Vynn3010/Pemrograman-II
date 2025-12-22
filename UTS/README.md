@@ -40,30 +40,30 @@ Data akun game direpresentasikan sebagai objek AkunGame dan disimpan dalam Array
 ## LINK YOUTUBE :
 
 ## Hasil GUI dari project
-1. Tampilan Awal Panel Login
+## 1. Tampilan Awal Panel Login
    <img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/673e5e13-ccbc-46c7-a02b-cf4b5503af04" />
    
-2. Tampilan jika login sebagai Admin
+## 2. Tampilan jika login sebagai Admin
    <img width="904" height="861" alt="Screenshot 2025-12-22 211423" src="https://github.com/user-attachments/assets/8694eb2b-fe6e-49a8-be91-594a5b2f2dde" />
    <img width="905" height="861" alt="image" src="https://github.com/user-attachments/assets/c1d2e882-f2b1-499e-b8e3-0232a22b9ce6" />
    
-3. Tampilan jika login sebagai Tamu
+## 3. Tampilan jika login sebagai Tamu
    <img width="933" height="888" alt="Screenshot 2025-12-22 212800" src="https://github.com/user-attachments/assets/bf9e659e-2adf-477a-99e0-1b48a2090d74" />
    <img width="932" height="892" alt="image" src="https://github.com/user-attachments/assets/6b1ce382-da39-4fea-af32-833dea92caa0" />
    
-4. Tampilan jika ingin beli akun dan membayar
+## 4. Tampilan jika ingin beli akun dan membayar
    <img width="505" height="739" alt="image" src="https://github.com/user-attachments/assets/eb3c5510-6168-4ab8-b67c-3594b5bd550a" />
    <img width="511" height="739" alt="image" src="https://github.com/user-attachments/assets/1ef7c342-3f3e-4ed9-b859-d87223326f9b" />
    <img width="504" height="740" alt="image" src="https://github.com/user-attachments/assets/c4aa02e4-c986-4f3a-90f2-fae3a0191d15" />
    
-6. Tampilan jika login sebagai Tamu dan sudah membayar akun yang dibeli
+## 5. Tampilan jika login sebagai Tamu dan sudah membayar akun yang dibeli
    <img width="932" height="890" alt="image" src="https://github.com/user-attachments/assets/42829fa9-5c89-48a2-af67-6c04448b78b1" />
    
-7. Tampilan jika login sebagai Tamu yang ingin mencari stok akun
+## 6. Tampilan jika login sebagai Tamu yang ingin mencari stok akun
    <img width="932" height="888" alt="image" src="https://github.com/user-attachments/assets/fd7c016c-d106-43ad-a637-7a01531687ff" />
    <img width="935" height="892" alt="image" src="https://github.com/user-attachments/assets/cad8ab13-ed3a-4be3-9063-6de7d35cbeb1" />
    
-8. Tampilan Swing Menus
+## 7. Tampilan Swing Menus
    <img width="429" height="882" alt="image" src="https://github.com/user-attachments/assets/c9814c2e-131c-43cc-b18d-40f6f85dc4a1" />
    <img width="431" height="885" alt="image" src="https://github.com/user-attachments/assets/dce8912f-79c5-44b6-81d7-ca1d1835fac2" />
 
