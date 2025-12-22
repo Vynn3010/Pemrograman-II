@@ -27,7 +27,7 @@ Method menerima parameter objek, seperti createCardPanel(AkunGame akun) dan cons
 - Objek dalam Class
 Data akun game direpresentasikan sebagai objek AkunGame dan disimpan dalam ArrayList pada class SystemManager.
 
-# Alur Kerja Singkat Aplikasi
+## -Alur Kerja Singkat Aplikasi
 1.Aplikasi dimulai dari LoginFrame
 2.Pengguna login sebagai Admin atau Buyer
 3.Admin mengelola data akun game
