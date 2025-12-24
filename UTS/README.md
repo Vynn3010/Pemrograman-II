@@ -37,9 +37,9 @@ Data akun game direpresentasikan sebagai objek AkunGame dan disimpan dalam Array
 ## UML Diagram Konektivitas
 <img width="1087" height="897" alt="image" src="https://github.com/user-attachments/assets/a0b0a9d8-976d-49cd-8bf4-42ac86a65c23" />
 
-## LINK YOUTUBE :
+## LINK YOUTUBE : https://youtu.be/PHxjxnIg8Cc
 
-## Hasil GUI dari project
+## Hasil GUI dari project Game Account Manager
 ## 1. Tampilan Awal Panel Login
    <img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/673e5e13-ccbc-46c7-a02b-cf4b5503af04" />
    
